@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4df4ae71-2054-4d1b-9f41-baf0b9753895" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chess-system/chess-system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/board/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/board/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/board/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/ChessPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chess/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chess/pieces/Rook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/board/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/board/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715640673205</updated>
-      <workItem from="1715640674260" duration="3405000" />
+      <workItem from="1715640674260" duration="4219000" />
     </task>
     <servers />
   </component>
